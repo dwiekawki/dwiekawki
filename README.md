@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @dwiekawki
-- 👀 I do
+- 👍 I like
   - ☕ coffee
+  - ⚽ football
   - 💪 gym
   - 🥊 mma
   - 🦀 Rust
-  - ⚙️ build things
-  - 🔨 break things
+  - 📖 to read
+  - 🧠 to learn
+  - 📐 to design things
+  - ⚙️ to build things
+  - 🔨 to break things
